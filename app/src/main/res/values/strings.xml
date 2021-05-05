@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tic_tac_toe</string>
+    <string name="title">Tic Tac Toe</string>
+    <string name="titleButton">Play</string>
+    <string name="resetButton">Reset</string>
+    <string name="settings">Settings</string>
+    <string name= "confirm">Confirm</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name= "uploadImage">Upload Image</string>
+</resources>
